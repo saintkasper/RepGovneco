@@ -1,0 +1,11 @@
+C:\Users\furuh\source\repos\Говнецо\Говнецо\bin\Debug\Говнецо.exe.config
+C:\Users\furuh\source\repos\Говнецо\Говнецо\bin\Debug\Говнецо.exe
+C:\Users\furuh\source\repos\Говнецо\Говнецо\bin\Debug\Говнецо.pdb
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.csproj.AssemblyReference.cache
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.csproj.SuggestedBindingRedirects.cache
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.Form1.resources
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.Properties.Resources.resources
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.csproj.GenerateResource.cache
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.csproj.CoreCompileInputs.cache
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.exe
+C:\Users\furuh\source\repos\Говнецо\Говнецо\obj\Debug\Говнецо.pdb
